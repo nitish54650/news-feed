@@ -2,9 +2,8 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.app-logo {
+  margin: 6px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -32,7 +31,19 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.appHeader {
+  background: #fff;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+  font-family: Roboto, sans-serif;
+  height: 72px;
+  position: fixed;
+  width: 100%;
+  z-index: 8;
 }
