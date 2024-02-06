@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bf8a04c.css",
+    "main.js": "/static/js/main.b52991d0.js",
+    "static/js/787.e3d4fc04.chunk.js": "/static/js/787.e3d4fc04.chunk.js",
+    "static/media/logo-news-anytime.svg": "/static/media/logo-news-anytime.732bea007f723f14a6517d85caba53d5.svg",
+    "index.html": "/index.html",
+    "main.5bf8a04c.css.map": "/static/css/main.5bf8a04c.css.map",
+    "main.b52991d0.js.map": "/static/js/main.b52991d0.js.map",
+    "787.e3d4fc04.chunk.js.map": "/static/js/787.e3d4fc04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf8a04c.css",
+    "static/js/main.b52991d0.js"
+  ]
+}
